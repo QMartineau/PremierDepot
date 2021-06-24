@@ -1,0 +1,60 @@
+nav img{
+    width: 150px;
+}
+
+main div img {
+
+    height: 213px;
+}
+
+#description p{
+    font-size: 12px;
+}
+
+#approche{
+    font-size: 12px;
+}
+
+#session{
+    font-size: 12px;
+}
+
+body{
+    padding-top: 36%;
+}
+
+#technologies img{
+    width: 30px;
+    height: auto;
+}
+
+.form-check-label{
+    font-size: 13px;
+}
+
+#trouver{
+    font-size: 12px;
+}
+
+iframe{
+    width: 280px;
+    height: 280px;
+}
+
+@media screen and (min-width:768px) {
+    body{
+        padding-top: 13%;
+    }
+
+    main div img{
+        height: 500px;
+    }
+
+    iframe{
+        width: 360px;
+        height: 360px;    
+    }
+
+    
+    
+}
